@@ -40,3 +40,7 @@ SELECT * FROM φοιτητής;
 Διαλέγουμε ένα από τα accounts (username,password)
 
 4)Τρέχουμε το application.py και συνδεόμαστε με τα credentials που προμηθευτήκαμε.
+
+Εικόνες:
+
+![alt text](https://raw.githubusercontent.com/baggelisp/Student-Service-Management-System/master/1.jpg)
