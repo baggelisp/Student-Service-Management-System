@@ -43,4 +43,6 @@ SELECT * FROM φοιτητής;
 
 Εικόνες:
 
-![alt text](https://raw.githubusercontent.com/baggelisp/Student-Service-Management-System/master/1.jpg)
+![1](https://user-images.githubusercontent.com/40744856/43667172-89583fec-977f-11e8-96f6-3c60e0815e2c.jpg)
+![2](https://user-images.githubusercontent.com/40744856/43667173-8986404a-977f-11e8-8fe6-78175a9de193.jpg)
+![3](https://user-images.githubusercontent.com/40744856/43667174-89b065aa-977f-11e8-8eb3-b2798821dc34.jpg)
